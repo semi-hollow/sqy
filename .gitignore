@@ -1,0 +1,11 @@
+# Obsidian machine state, installed plugins, and local plugin settings
+.obsidian/
+.trash/
+.DS_Store
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
